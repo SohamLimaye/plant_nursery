@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/SohamLimaye/paradise_Nursery.git/static/css/main.cd945418.css",
+    "main.js": "/SohamLimaye/paradise_Nursery.git/static/js/main.1d4fe8cc.js",
+    "static/js/453.81c3b423.chunk.js": "/SohamLimaye/paradise_Nursery.git/static/js/453.81c3b423.chunk.js",
+    "static/media/landing_page.jpeg": "/SohamLimaye/paradise_Nursery.git/static/media/landing_page.ff27ee251c23ba7d2df5.jpeg",
+    "static/media/peace_lily.jpeg": "/SohamLimaye/paradise_Nursery.git/static/media/peace_lily.16a31c1d56344f955923.jpeg",
+    "static/media/jade_plant.jpeg": "/SohamLimaye/paradise_Nursery.git/static/media/jade_plant.834a07a2dbf00bbe04e3.jpeg",
+    "static/media/aloe_vera.jpeg": "/SohamLimaye/paradise_Nursery.git/static/media/aloe_vera.63259a8f85b0bb65f000.jpeg",
+    "static/media/spider_plant.jpeg": "/SohamLimaye/paradise_Nursery.git/static/media/spider_plant.89db4e4160311e1bd431.jpeg",
+    "static/media/fiddle_leaf_fig.jpeg": "/SohamLimaye/paradise_Nursery.git/static/media/fiddle_leaf_fig.ea4948fd6238db756469.jpeg",
+    "index.html": "/SohamLimaye/paradise_Nursery.git/index.html",
+    "main.cd945418.css.map": "/SohamLimaye/paradise_Nursery.git/static/css/main.cd945418.css.map",
+    "main.1d4fe8cc.js.map": "/SohamLimaye/paradise_Nursery.git/static/js/main.1d4fe8cc.js.map",
+    "453.81c3b423.chunk.js.map": "/SohamLimaye/paradise_Nursery.git/static/js/453.81c3b423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd945418.css",
+    "static/js/main.1d4fe8cc.js"
+  ]
+}

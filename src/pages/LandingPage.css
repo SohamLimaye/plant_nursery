@@ -1,0 +1,43 @@
+.landing-page {
+  position: relative;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  overflow: hidden;
+}
+
+.landing-page::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('../assets/images/landing_page.jpeg'); /* Path to your background image */
+  background-size: cover;
+  background-position: center;
+  filter: blur(3px);
+  z-index: -1;
+}
+
+.landing-page h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+  z-index: 1;
+}
+
+.landing-page p {
+  font-size: 1.5em;
+  margin-bottom: 30px;
+  z-index: 1;
+}
+
+.landing-page button {
+  font-size: 1.2em;
+  padding: 10px 20px;
+  z-index: 1;
+}
